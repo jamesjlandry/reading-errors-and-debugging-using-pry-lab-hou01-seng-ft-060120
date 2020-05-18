@@ -13,7 +13,7 @@ end
 
 
 
-def engage
-  puts state_log(date)
+def engage (date)
+  puts state_log
   
 end
