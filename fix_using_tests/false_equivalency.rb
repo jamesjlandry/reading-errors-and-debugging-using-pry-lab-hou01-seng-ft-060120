@@ -14,9 +14,9 @@ end
 
 def selection(num)
   if num = 1
-     num = "YUM YUM MUNCH MUNCH MUNCH"
+     "#{num}" = "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
-     num = "HAM HAM HAM IN MY TUMMY"
+     "HAM HAM HAM IN MY TUMMY"
   end
 binding.pry
 end
